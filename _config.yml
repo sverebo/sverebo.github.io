@@ -26,13 +26,13 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://sverebo.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: sverebo # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: sverebo # change to your twitter username
 
 social:
   # Change to your full name.
@@ -41,8 +41,8 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/sverebo # change to your twitter homepage
+    - https://github.com/sverebo # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
